@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="SchemeGovt">
+  <rect width="180" height="180" rx="38" fill="#1f3a6b"/>
+  <path d="M90 116c-7.4-5.3-31-21.1-31-39.2 0-13.4 17.4-20.2 31-5.8 13.6-14.4 31-7.6 31 5.8 0 18.1-23.6 33.9-31 39.2Z" fill="#fff"/>
+  <path d="M34 111.5 55.8 96c4.2-3 9.8-2.7 13.7.7l11.2 9.7h15.1c4.7 0 8.5 3.8 8.5 8.5s-3.8 8.5-8.5 8.5H74.3l-10.8-7.7-18.2 13.1M146 111.5 124.2 96c-4.2-3-9.8-2.7-13.7.7l-4.5 3.9" fill="none" stroke="#8bd8c8" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+</svg>
